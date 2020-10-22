@@ -8,13 +8,13 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning SQL and Computer vision
 - 👯 I’m looking to collaborate on Data Science projects and anything related to energy especially renewable energy
 - ⚡ Fun fact: I love renewable energy
--->
+
 
 Connect with me via
 
 Twitter: [Oluwajustus](https://twitter.com/JustusIlemobayo)
 
-LinkedLn: [Justus Ilemobayo](https://www.linkedin.com/in/justusilemobayo/)
+Linkedin: [Justus Ilemobayo](https://www.linkedin.com/in/justusilemobayo/)
 
 Email: justusilemobayo@gmail.com
 
