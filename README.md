@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Justus Ilemobayo, a graduate of Mechanical Engineering at Obafemi Awolowo University. I am a Data Scientist who loves using data to solve problems. I have experience working in the Energy, Finance, and Agricultural sectors. I'm passionate about renewable energy.
+Welcome!!! You found my page. I am a graduate student at Auburn University, Alabama, in the Department of Biosystems Engineering. My current research revolves around using precision agriculture techniques with data to solve problems in the agricultural sector. Beyond my research, I love using data to solve problems, and this extends to any field. I have experience working in the Energy, Finance, and Agricultural sectors.
 
 Want to collaborate? Here are some ideas to get you started:
 
