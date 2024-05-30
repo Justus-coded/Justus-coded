@@ -10,13 +10,6 @@ Want to collaborate? Here are some ideas to get you started:
 - ⚡ Feel free to contact me on any exciting project outside these areas. 
 
 
-Connect with me via
-
-Twitter: [Oluwajustus](https://twitter.com/JustusIlemobayo)
-
-Linkedin: [Justus Ilemobayo](https://www.linkedin.com/in/justusilemobayo/)
-
-Email: justusilemobayo@gmail.com
 
 
 
